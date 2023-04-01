@@ -4,8 +4,6 @@ Fraud-Detection
 Data Description Sheet
 1. A description of which author(s) handled the data and conducted the analyses.
 
-Yang Bao and Julia Yu handled data. Yang Bao, Bin Ke, Bin Li, and Julia Yu jointly conducted the analyses.
-
 2. A detailed description of how the raw data were obtained or generated, including data sources, the specific date(s) on which data were downloaded or obtained, and the instrument used to generate the data (e.g., for surveys or experiments). We recommend that more than one author is able to vouch for the stated source of the raw data.
 
 Archival data are used in this paper. The data are mainly obtained from commercially available sources. The details are as follows.
